@@ -5,7 +5,6 @@
 - 📫 How to reach me 
 email: luiscabo.117@gmail.com
 skype: live:.cid.736196be003e8268
-slack: wygtwo@gmail.com
 
 <!---
 Luiscarlos117/Luiscarlos117 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
